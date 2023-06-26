@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Ambitious and adaptable developer; I have gained a fundamental understanding in building MERN-based projects and I envision my programming repertoire growing as I continue my quest to learn more languages. I truly admire the wide array of computing languages and the practical uses each serve to accomplish, both niche and mainstream.
+Ambitious and adaptable developer; I have a fundamental understanding of relevant front & back-end technologies, and I envision my programming repertoire growing as I continue my quest to learn more languages. I truly admire the wide array of computing languages and the practical uses each serve to accomplish, both niche and mainstream. 
+
+🌱 I’m currently learning !(KotlinLogo)["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"]!
+
 <!--
 **buster35/buster35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

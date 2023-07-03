@@ -2,7 +2,7 @@
 
 Ambitious and adaptable developer; I have a fundamental understanding of relevant front & back-end technologies, and I envision my programming repertoire growing as I continue my quest to learn more languages. I truly admire the wide array of computing languages and the practical uses each serve to accomplish, both niche and mainstream.
 
-Portfolio: zgcodes.net
+Portfolio: <https://zgcodes.net>
 
 🌱 I’m currently learning PHP!
 

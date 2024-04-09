@@ -4,7 +4,7 @@ Ambitious and adaptable developer; I have a fundamental understanding of relevan
 
 Portfolio: <https://zgcodes.net>
 
-🌱 I’m currently learning PHP!
+🌱 I’m currently learning C!
 
 <!--
 **buster35/buster35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
